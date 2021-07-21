@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349988000416",
+    "project_id": "fir-memo-udemy",
+    "storage_bucket": "fir-memo-udemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349988000416:android:5ae9ece97123c06a5eafc5",
+        "android_client_info": {
+          "package_name": "com.example.udemy_flutter_firebase_moblieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349988000416-brhko2rqp5qa8q4830op638gkstn55g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrjnm2ZajLBFjuPhg9YRIeN8_Z7Sh2OyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349988000416-brhko2rqp5qa8q4830op638gkstn55g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
